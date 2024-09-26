@@ -1,0 +1,21 @@
+{
+  "name": "conceitos-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.20.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  }
+}
